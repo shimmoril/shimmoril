@@ -7,7 +7,7 @@ I believe that everyone deserves an accessible experience, whether in the physic
 - 💬 Ask me about: general nerdery (tv shows, movies, comics, Pokémon Go, Pikmin Bloom, Animal Crossing: New Horizons, LEGO)
 - 📫 How to reach me: hit me up on [BlueSky](https://bsky.app/profile/ashleighlodge.ca) for lots of a11y retweets and the occassional personal tidbit
 - 😄 Pronouns: she/her
-- ⚡ "Fun" fact: I have fibromyalgia, which is how I became interested and aware of accessibility initially. 
+- ⚡ "Fun" fact: I have fibromyalgia, which is how I became interested and aware of accessibility initially. I was also recently diagnosed as autistic and ADHD, which is changing how I approach digital accessibility. 
 
 
 <!--
